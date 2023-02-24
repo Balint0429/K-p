@@ -1,0 +1,16 @@
+footer{
+    background-color: bisque;
+    padding: 2px;
+    text-align: center;
+    border: 1px black solid;
+    width:950px;
+    margin-top: 30%;
+    
+
+
+}
+.container{
+    background-color: azure;
+    width: auto;
+    margin: 10px 5px;
+}
